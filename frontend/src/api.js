@@ -1,15 +1,15 @@
-export const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000';
+export const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'https://fintechtracker-api.onrender.com';
 const BASE_URL = `${BACKEND_URL}/api`;
 
 const apiRequest = async (endpoint, method = 'GET', body = null, isMultipart = false) => {
   const token = localStorage.getItem('token');
-  
+
   const headers = {};
   if (token) {
     headers['Authorization'] = `Bearer ${token}`;
   }
 
-  
+
   if (!isMultipart && !(body instanceof FormData)) {
     headers['Content-Type'] = 'application/json';
   }
@@ -28,7 +28,7 @@ const apiRequest = async (endpoint, method = 'GET', body = null, isMultipart = f
     const data = await response.json();
 
     if (!response.ok) {
-      
+
       if (response.status === 401 && !endpoint.includes('/auth/login') && !endpoint.includes('/auth/register')) {
         localStorage.removeItem('token');
         localStorage.removeItem('user');

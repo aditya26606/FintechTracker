@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "mq0u562droljh",
+    "createdAt": "2026-06-05T11:23:00.469Z",
+    "name": "Test User",
+    "email": "test@example.com",
+    "mobile": "9876543210",
+    "password": "$2a$10$WJRBs1cCZc/m6d20YtLdb.N7GqVXLTHtDUqeBa55ZELNdRZHgQBoC",
+    "profilePhoto": "",
+    "preferences": {
+      "theme": "dark",
+      "currency": "INR",
+      "notificationsEnabled": true
+    },
+    "id": "mq0u562droljh"
+  },
+  {
+    "_id": "mq0v196npqvtm",
+    "createdAt": "2026-06-05T11:47:57.503Z",
+    "name": "Test User Real World",
+    "email": "realtest@example.com",
+    "mobile": "9876543210",
+    "password": "$2a$10$YLtOOvB0lzPhxR.F1WXsdOZcPHDHNa5iDIErCzbqlC3fHUIRCVuS6",
+    "profilePhoto": "",
+    "preferences": {
+      "theme": "light",
+      "currency": "INR",
+      "notificationsEnabled": true
+    },
+    "id": "mq0v196npqvtm"
+  },
+  {
+    "_id": "mq0wsh3ozqfcw",
+    "createdAt": "2026-06-05T12:37:07.092Z",
+    "name": "Aditya Devata",
+    "email": "devataditya@gmail.com",
+    "mobile": "1234567890",
+    "password": "$2a$10$z9TjcJTqZlFJq3PtwpouFeA5x4iiY2OLsrUy4plWNaDtlZCmoUm72",
+    "profilePhoto": "",
+    "preferences": {
+      "theme": "dark",
+      "currency": "INR",
+      "notificationsEnabled": true
+    },
+    "id": "mq0wsh3ozqfcw"
+  },
+  {
+    "_id": "mq0xmcgmjpz9k",
+    "createdAt": "2026-06-05T13:00:20.758Z",
+    "name": "Test User",
+    "email": "test@test.com",
+    "mobile": "9876543210",
+    "password": "$2a$10$X01i5uuR89.ALYK1CvSfAeVbpjYB5//vjbXCVIFXIrorbdmhfgflu",
+    "profilePhoto": "",
+    "preferences": {
+      "theme": "dark",
+      "currency": "INR",
+      "notificationsEnabled": true
+    },
+    "id": "mq0xmcgmjpz9k"
+  }
+]

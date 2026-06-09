@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "mq0u562ezkjda",
+    "createdAt": "2026-06-05T11:23:00.470Z",
+    "userId": "mq0u562droljh",
+    "monthlyBudget": 5000,
+    "categoryBudgets": {
+      "Food": 400,
+      "Travel": 300,
+      "Shopping": 200,
+      "Entertainment": 299,
+      "Bills": 500,
+      "Education": 400,
+      "Healthcare": 500
+    },
+    "id": "mq0u562ezkjda"
+  },
+  {
+    "_id": "mq0v196zh3dlj",
+    "createdAt": "2026-06-05T11:47:57.515Z",
+    "userId": "mq0v196npqvtm",
+    "monthlyBudget": 20000,
+    "categoryBudgets": {
+      "Food": 5000,
+      "Travel": 3000
+    },
+    "id": "mq0v196zh3dlj"
+  },
+  {
+    "_id": "mq0wsh3qq5zvx",
+    "createdAt": "2026-06-05T12:37:07.094Z",
+    "userId": "mq0wsh3ozqfcw",
+    "monthlyBudget": 10000,
+    "categoryBudgets": {},
+    "id": "mq0wsh3qq5zvx"
+  },
+  {
+    "_id": "mq0xmcgnbkels",
+    "createdAt": "2026-06-05T13:00:20.759Z",
+    "userId": "mq0xmcgmjpz9k",
+    "monthlyBudget": 0,
+    "categoryBudgets": {},
+    "id": "mq0xmcgnbkels"
+  }
+]

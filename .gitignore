@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+dist/
+**/node_modules/
+**/dist/
+
+# Local env files
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# Uploads and temporary files
+uploads/
+**/uploads/
+*.log
+
+# IDE and tool configuration
+.gemini/
+.vscode/
+.idea/
+.DS_Store

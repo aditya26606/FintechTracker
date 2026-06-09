@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "mq0ue8h7wlfyh",
+    "createdAt": "2026-06-05T11:30:03.499Z",
+    "userId": "mq0u562droljh",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T11:30:03.496Z",
+    "periodEnd": "2026-06-05T11:30:03.496Z",
+    "filePath": "",
+    "id": "mq0ue8h7wlfyh"
+  },
+  {
+    "_id": "mq0v60glry7ev",
+    "createdAt": "2026-06-05T11:51:39.477Z",
+    "userId": "mq0v196npqvtm",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T11:51:39.476Z",
+    "periodEnd": "2026-06-05T11:51:39.476Z",
+    "filePath": "",
+    "id": "mq0v60glry7ev"
+  },
+  {
+    "_id": "mq0vtea3ou3as",
+    "createdAt": "2026-06-05T12:09:50.475Z",
+    "userId": "mq0v196npqvtm",
+    "reportType": "daily",
+    "periodStart": "2026-06-04T18:30:00.000Z",
+    "periodEnd": "2026-06-05T12:09:50.466Z",
+    "filePath": "",
+    "id": "mq0vtea3ou3as"
+  },
+  {
+    "_id": "mq0x1pqmkh2vr",
+    "createdAt": "2026-06-05T12:44:18.190Z",
+    "userId": "mq0wsh3ozqfcw",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T12:44:18.190Z",
+    "periodEnd": "2026-06-05T12:44:18.190Z",
+    "filePath": "",
+    "id": "mq0x1pqmkh2vr"
+  },
+  {
+    "_id": "mq0x9s952jc1j",
+    "createdAt": "2026-06-05T12:50:34.697Z",
+    "userId": "mq0wsh3ozqfcw",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T12:50:34.697Z",
+    "periodEnd": "2026-06-05T12:50:34.697Z",
+    "filePath": "",
+    "id": "mq0x9s952jc1j"
+  },
+  {
+    "_id": "mq0xg2io5o3xh",
+    "createdAt": "2026-06-05T12:55:27.936Z",
+    "userId": "mq0wsh3ozqfcw",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T12:55:27.935Z",
+    "periodEnd": "2026-06-05T12:55:27.935Z",
+    "filePath": "",
+    "id": "mq0xg2io5o3xh"
+  },
+  {
+    "_id": "mq0xiq2jgf8h3",
+    "createdAt": "2026-06-05T12:57:31.771Z",
+    "userId": "mq0wsh3ozqfcw",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T12:57:31.771Z",
+    "periodEnd": "2026-06-05T12:57:31.771Z",
+    "filePath": "",
+    "id": "mq0xiq2jgf8h3"
+  },
+  {
+    "_id": "mq0xo9wyzvh8m",
+    "createdAt": "2026-06-05T13:01:50.770Z",
+    "userId": "mq0wsh3ozqfcw",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T13:01:50.769Z",
+    "periodEnd": "2026-06-05T13:01:50.769Z",
+    "filePath": "",
+    "id": "mq0xo9wyzvh8m"
+  },
+  {
+    "_id": "mq0xoa6x23gun",
+    "createdAt": "2026-06-05T13:01:51.129Z",
+    "userId": "mq0wsh3ozqfcw",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T13:01:51.129Z",
+    "periodEnd": "2026-06-05T13:01:51.129Z",
+    "filePath": "",
+    "id": "mq0xoa6x23gun"
+  },
+  {
+    "_id": "mq0xppun1aei8",
+    "createdAt": "2026-06-05T13:02:58.079Z",
+    "userId": "mq0xmcgmjpz9k",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T13:02:58.068Z",
+    "periodEnd": "2026-06-05T13:02:58.068Z",
+    "filePath": "",
+    "id": "mq0xppun1aei8"
+  },
+  {
+    "_id": "mq0xsnc90fbzr",
+    "createdAt": "2026-06-05T13:05:14.793Z",
+    "userId": "mq0xmcgmjpz9k",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T13:05:14.793Z",
+    "periodEnd": "2026-06-05T13:05:14.793Z",
+    "filePath": "",
+    "id": "mq0xsnc90fbzr"
+  },
+  {
+    "_id": "mq0xu6ahbdsjz",
+    "createdAt": "2026-06-05T13:06:26.009Z",
+    "userId": "mq0xmcgmjpz9k",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T13:06:26.008Z",
+    "periodEnd": "2026-06-05T13:06:26.008Z",
+    "filePath": "",
+    "id": "mq0xu6ahbdsjz"
+  },
+  {
+    "_id": "mq0xuh7l7vrqa",
+    "createdAt": "2026-06-05T13:06:40.161Z",
+    "userId": "mq0wsh3ozqfcw",
+    "reportType": "monthly",
+    "periodStart": "2026-05-05T13:06:40.161Z",
+    "periodEnd": "2026-06-05T13:06:40.161Z",
+    "filePath": "",
+    "id": "mq0xuh7l7vrqa"
+  }
+]

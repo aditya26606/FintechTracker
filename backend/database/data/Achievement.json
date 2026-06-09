@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "mq0u9cmlq4oiq",
+    "createdAt": "2026-06-05T11:26:15.597Z",
+    "userId": "mq0u562droljh",
+    "badgeName": "First Expense Added",
+    "badgeDescription": "You started your journey by logging your first expense!",
+    "id": "mq0u9cmlq4oiq"
+  },
+  {
+    "_id": "mq0uaaj6dxhun",
+    "createdAt": "2026-06-05T11:26:59.538Z",
+    "userId": "mq0u562droljh",
+    "badgeName": "Budget Keeper",
+    "badgeDescription": "First monthly budget goal defined! Start saving today.",
+    "id": "mq0uaaj6dxhun"
+  },
+  {
+    "_id": "mq0ud9ehfzt75",
+    "createdAt": "2026-06-05T11:29:18.041Z",
+    "userId": "mq0u562droljh",
+    "badgeName": "Savings Champion",
+    "badgeDescription": "Secured first place savings! Completed a financial savings goal.",
+    "id": "mq0ud9ehfzt75"
+  },
+  {
+    "_id": "mq0ud9ehox5bw",
+    "createdAt": "2026-06-05T11:29:18.041Z",
+    "userId": "mq0u562droljh",
+    "badgeName": "Goal Achiever",
+    "badgeDescription": "Success! Successfully fully funded savings target goal: \"laptop\"",
+    "id": "mq0ud9ehox5bw"
+  },
+  {
+    "_id": "mq0v1xwn6poru",
+    "createdAt": "2026-06-05T11:48:29.543Z",
+    "userId": "mq0v196npqvtm",
+    "badgeName": "Budget Keeper",
+    "badgeDescription": "First monthly budget goal defined! Start saving today.",
+    "id": "mq0v1xwn6poru"
+  },
+  {
+    "_id": "mq0v342zkn6y6",
+    "createdAt": "2026-06-05T11:49:24.203Z",
+    "userId": "mq0v196npqvtm",
+    "badgeName": "First Expense Added",
+    "badgeDescription": "You started your journey by logging your first expense!",
+    "id": "mq0v342zkn6y6"
+  },
+  {
+    "_id": "mq0wtw90mhoym",
+    "createdAt": "2026-06-05T12:38:13.380Z",
+    "userId": "mq0wsh3ozqfcw",
+    "badgeName": "First Expense Added",
+    "badgeDescription": "You started your journey by logging your first expense!",
+    "id": "mq0wtw90mhoym"
+  },
+  {
+    "_id": "mq0wutaoz06aw",
+    "createdAt": "2026-06-05T12:38:56.208Z",
+    "userId": "mq0wsh3ozqfcw",
+    "badgeName": "Budget Keeper",
+    "badgeDescription": "First monthly budget goal defined! Start saving today.",
+    "id": "mq0wutaoz06aw"
+  },
+  {
+    "_id": "mq0xpjrrfne1q",
+    "createdAt": "2026-06-05T13:02:50.199Z",
+    "userId": "mq0xmcgmjpz9k",
+    "badgeName": "First Expense Added",
+    "badgeDescription": "You started your journey by logging your first expense!",
+    "id": "mq0xpjrrfne1q"
+  }
+]

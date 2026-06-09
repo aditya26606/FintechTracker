@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "mq0ucks29xm1n",
+    "createdAt": "2026-06-05T11:28:46.130Z",
+    "userId": "mq0u562droljh",
+    "goalName": "laptop",
+    "targetAmount": 2000,
+    "currentAmount": 2000,
+    "targetDate": "2026-06-05T00:00:00.000Z",
+    "id": "mq0ucks29xm1n"
+  },
+  {
+    "_id": "mq0v4ncb8bhrm",
+    "createdAt": "2026-06-05T11:50:35.819Z",
+    "userId": "mq0v196npqvtm",
+    "goalName": "Emergency Fund",
+    "targetAmount": 50000,
+    "currentAmount": 5000,
+    "targetDate": "2026-12-31T00:00:00.000Z",
+    "id": "mq0v4ncb8bhrm"
+  },
+  {
+    "_id": "mq0wvt7lqesfo",
+    "createdAt": "2026-06-05T12:39:42.753Z",
+    "userId": "mq0wsh3ozqfcw",
+    "goalName": "laptop",
+    "targetAmount": 30000,
+    "currentAmount": 15000,
+    "targetDate": "2026-06-30T00:00:00.000Z",
+    "id": "mq0wvt7lqesfo"
+  }
+]

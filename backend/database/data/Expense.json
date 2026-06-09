@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "mq0u9cmjtc33w",
+    "createdAt": "2026-06-05T11:26:15.595Z",
+    "userId": "mq0u562droljh",
+    "date": "2026-06-05T00:00:00.000Z",
+    "amount": 500,
+    "category": "Travel",
+    "description": "diinner",
+    "receiptFile": "",
+    "id": "mq0u9cmjtc33w"
+  },
+  {
+    "_id": "mq0v342wlefzj",
+    "createdAt": "2026-06-05T11:49:24.200Z",
+    "userId": "mq0v196npqvtm",
+    "date": "+060605-02-19T18:30:00.000Z",
+    "amount": 2500,
+    "category": "Food",
+    "description": "Supermarket Groceries",
+    "receiptFile": "",
+    "id": "mq0v342wlefzj"
+  },
+  {
+    "_id": "mq0vrvij54csu",
+    "createdAt": "2026-06-05T12:08:39.499Z",
+    "userId": "mq0v196npqvtm",
+    "date": "2026-06-05T00:00:00.000Z",
+    "amount": 2500,
+    "category": "Travel",
+    "description": "",
+    "receiptFile": "",
+    "id": "mq0vrvij54csu"
+  },
+  {
+    "_id": "mq0wtw8ygrv84",
+    "createdAt": "2026-06-05T12:38:13.378Z",
+    "userId": "mq0wsh3ozqfcw",
+    "date": "2026-06-05T00:00:00.000Z",
+    "amount": 1000,
+    "category": "Shopping",
+    "description": "cloths ",
+    "receiptFile": "",
+    "id": "mq0wtw8ygrv84"
+  },
+  {
+    "_id": "mq0wu90760glk",
+    "createdAt": "2026-06-05T12:38:29.911Z",
+    "userId": "mq0wsh3ozqfcw",
+    "date": "2026-06-05T00:00:00.000Z",
+    "amount": 500,
+    "category": "Food",
+    "description": "lunch ",
+    "receiptFile": "",
+    "id": "mq0wu90760glk"
+  },
+  {
+    "_id": "mq0xpjrfdwb8f",
+    "createdAt": "2026-06-05T13:02:50.187Z",
+    "userId": "mq0xmcgmjpz9k",
+    "date": "2026-06-05T00:00:00.000Z",
+    "amount": 500,
+    "category": "Entertainment",
+    "description": "movie",
+    "receiptFile": "",
+    "id": "mq0xpjrfdwb8f"
+  },
+  {
+    "_id": "mq0xrz1np9jpo",
+    "createdAt": "2026-06-05T13:04:43.307Z",
+    "userId": "mq0xmcgmjpz9k",
+    "date": "2026-06-05T00:00:00.000Z",
+    "amount": 120,
+    "category": "Travel",
+    "description": "Auto ride",
+    "receiptFile": "",
+    "id": "mq0xrz1np9jpo"
+  }
+]
